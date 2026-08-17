@@ -1,7 +1,7 @@
 # camila_marquez.github.io
 # Entregable-Mentalidad-de-Crecimiento-y-Communicacion-en-Entornos-Digitales
 Este repositorio contiene la entrega correspondiente a la materia Mentalidad de Crecimiento y Comunicación en Entornos Digitales, en el marco de la carrera de Marketing Digital.
-git commit -m 🚀 Cómo resolvimos un fallo de rendimiento en producción mediante análisis de causa raíz
+gitcommit-m  Cómo resolvimos un fallo de rendimiento en producción mediante análisis de causa raíz
 Contexto
 Durante el último trimestre, nuestro equipo estuvo trabajando en el escalamiento de la plataforma de comercio electrónico de la empresa. El entorno de producción opera con una arquitectura de microservicios alojada en Kubernetes, procesando un término medio de 5,000 solicitudes por minuto. La base de datos principal es PostgreSQL.
 
